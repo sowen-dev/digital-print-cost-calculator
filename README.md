@@ -1,1 +1,1 @@
-# digital-print-cost-calculator
+# Digital Print Cost Calculator
